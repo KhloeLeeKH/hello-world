@@ -1,5 +1,2 @@
-# hello-world
-first repository
+# Initial page
 
-Hi, I'm Khloe. This is my first repository!!! 
-It's so interested:)
